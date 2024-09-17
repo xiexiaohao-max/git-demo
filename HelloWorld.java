@@ -8,5 +8,6 @@ public class HelloWorld {
         System.out.println("random update...");
         System.out.println("test git stash 暂存区...");
         System.out.println("test git stash 工作区...");
+        System.out.println("测试PR");
     }
 }
