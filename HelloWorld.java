@@ -4,5 +4,7 @@ public class HelloWorld {
         System.out.println("update first...");
         System.out.println("...");
         System.out.println("update second...");
+        System.out.println("test git pull --rebase...");
+        System.out.println("random update...");
     }
 }
